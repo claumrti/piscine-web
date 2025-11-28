@@ -25,10 +25,10 @@ El propósito es documentar mi evolución, entender mejor las bases del desarrol
 
 \`\`\`
 📦 piscine-web-discovery-woman
- ┣ 📂 cel00
- ┣ 📂 cel01
- ┣ 📂 cel02
- ┣ 📂 cel03
+ ┣ 📂 cell00
+ ┣ 📂 cell01
+ ┣ 📂 cell02
+ ┣ 📂 cell03
  ┗ 📜 README.md
 \`\`\`
 
@@ -58,13 +58,6 @@ En la Piscine no existen profes, solo compañeras, la intranet… y tus ganas de
 ## 🤝 Contribuciones  
 Cualquier sugerencia o mejora es bienvenida.  
 ¡Pull requests abiertas para aprender juntas!
-
----
-
-## 💬 Contacto  
-
-- 📧 **Email:** _pon-aquí-tu-correo_  
-- 🐙 **GitHub:** _tu-usuario_
 
 ---
 
